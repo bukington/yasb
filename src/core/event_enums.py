@@ -32,6 +32,8 @@ class KomorebiEvent(Event):
     FocusMonitorNumber = "FocusMonitorNumber"
     ReloadConfiguration = "ReloadConfiguration"
     WatchConfiguration = "WatchConfiguration"
+    Show = "Show"
+    Uncloak = "Uncloak"
     Manage = "Manage"
     Unmanage = "Unmanage"
     MoveContainerToMonitorNumber = "MoveContainerToMonitorNumber"
